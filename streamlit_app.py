@@ -198,7 +198,7 @@ with st.container(horizontal_alignment="center"):
 
         st.link_button(
             "Projektüberblick auf GitHub",
-            "https://github.com/publiusTacitus/...",
+            "https://github.com/publiusTacitus/portfolio_overview",
             use_container_width=False
         )
 
