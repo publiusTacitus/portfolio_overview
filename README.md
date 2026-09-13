@@ -23,5 +23,4 @@
 
 ---
 
-### Verfasser
 Jan H. Schüttler ([LinkedIn](https://www.linkedin.com/in/jan-heinrich-sch%C3%BCttler-64b872396/))
